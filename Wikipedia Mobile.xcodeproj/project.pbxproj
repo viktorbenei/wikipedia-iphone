@@ -576,7 +576,7 @@
 				GCC_PREFIX_HEADER = Wikipedia_Mobile_Prefix.pch;
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "Wikipedia_Mobile-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "Wikipedia Mobile";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -597,7 +597,7 @@
 				GCC_PREFIX_HEADER = Wikipedia_Mobile_Prefix.pch;
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "Wikipedia_Mobile-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "Wikipedia Mobile";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 1;
